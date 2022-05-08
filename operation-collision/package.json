@@ -1,0 +1,28 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "ReedSy 5. Operation collision",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand --verbose",
+    "build": "tsc"
+  },
+  "keywords": [
+    "ReedSy",
+    "5.",
+    "Operation",
+    "collision"
+  ],
+  "author": "Saddam UWEJAN",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.5.0",
+    "@types/lodash": "^4.14.182",
+    "concurrently": "^7.1.0",
+    "jest": "^28.1.0",
+    "nodemon": "^2.0.16",
+    "prettier": "^2.6.2",
+    "ts-jest": "^28.0.1",
+    "ts-node-dev": "^1.1.8"
+  }
+}

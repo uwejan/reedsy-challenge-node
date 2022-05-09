@@ -217,10 +217,13 @@ export enum JobOperationsEnum {
   importJob = 'importJob',
 }
 ```
+
 Is used to have an object in the `Store` for each operation type.
 My assumption here, we do not want operations records/entries to be all inside same object key.
+
 ---
-##4 SPA
+
+## 4 SPA
 
 #### Commands;
 * `npm install` 
